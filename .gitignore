@@ -3,6 +3,7 @@ node_modules
 /dist
 uni_modules
 unpackage
+.hbuilderx
 
 # local env files
 .env.local
